@@ -1,0 +1,4 @@
+﻿  ex2.c
+C:\Users\gilel\source\repos\Project3\ex2.c(51,27): warning C4013: 'IsNumberHaveEvenDigit' undefined; assuming extern returning int
+C:\Users\gilel\source\repos\Project3\ex2.c(115,20): warning C4013: 'IsEvenDigit' undefined; assuming extern returning int
+  Project3.vcxproj -> C:\Users\gilel\source\repos\Project3\Debug\Project3.exe
