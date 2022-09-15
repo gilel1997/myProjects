@@ -1,0 +1,2 @@
+C:\Users\gilel\source\repos\Project1\Debug\Project1.exe
+C:\Users\gilel\source\repos\Project1\Debug\Project1.pdb

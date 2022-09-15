@@ -1,0 +1,3 @@
+﻿  ex1.c
+C:\Users\gilel\source\repos\Project2\ex1.c(131,38): warning C4101: 'temp': unreferenced local variable
+  Project2.vcxproj -> C:\Users\gilel\source\repos\Project2\Debug\Project2.exe
