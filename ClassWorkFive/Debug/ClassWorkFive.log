@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\gilel\source\repos\ClassWorkFive\Source.c(33,9): warning C4101: 'id': unreferenced local variable
+C:\Users\gilel\source\repos\ClassWorkFive\Source.c(55): warning C4716: 'InputData': must return a value
+  ClassWorkFive.vcxproj -> C:\Users\gilel\source\repos\ClassWorkFive\Debug\ClassWorkFive.exe

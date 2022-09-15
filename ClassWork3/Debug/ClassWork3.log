@@ -1,0 +1,7 @@
+﻿  Circle.cpp
+  Source.cpp
+C:\Users\gilel\source\repos\ClassWork3\Source.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\gilel\source\repos\ClassWork3\Source.cpp(15,8): warning C4930: 'Squre s3(void)': prototyped function not called (was a variable definition intended?)
+  Squre.cpp
+  Generating Code...
+  ClassWork3.vcxproj -> C:\Users\gilel\source\repos\ClassWork3\Debug\ClassWork3.exe

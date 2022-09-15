@@ -1,0 +1,7 @@
+﻿  assignment1cpp.cpp
+C:\Users\gilel\source\repos\assignment1cpp\assignment1cpp.cpp(33,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gilel\source\repos\assignment1cpp\assignment1cpp.cpp(34,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Polynomial.cpp
+  Rational.cpp
+  Generating Code...
+  assignment1cpp.vcxproj -> C:\Users\gilel\source\repos\assignment1cpp\Debug\assignment1cpp.exe
